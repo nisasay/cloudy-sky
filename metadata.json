@@ -1,0 +1,6 @@
+{
+  "name": "Daily Sky Financial Companion",
+  "description": "A calm watercolor financial companion featuring cloud cash flow, wishlist decision engine, accumulation reviews, and liquid hesitation AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
